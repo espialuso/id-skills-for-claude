@@ -7,3 +7,4 @@ This skill helps instructional designers apply diligence across three areas: cre
 ---
 
 ## Core Principle: The Designer Remains Accountable
+When an instructional designer uses AI to create something, they must be transparent about the use of AI and take responsibility for the output.
